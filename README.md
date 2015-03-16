@@ -39,3 +39,7 @@ Because not everyone has Excel, we'll use Google Spreadsheets. If you haven't al
 ###Sanity checks
 
 ###Web extras
+
+###Homework
+
+Check out Mary Jo Webster's famous tipsheet, <a href="http://extra.twincities.com/car/mj/ExcelClassHandout.pdf">"My Favorite (Excel) Things"</a> (pdf).
