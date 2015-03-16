@@ -8,6 +8,9 @@ Because not everyone has Excel, we'll use Google Spreadsheets. If you haven't al
 ###Sums, averages and other functions
 <a href="https://support.google.com/docs/table/25273?hl=en&ref_topic=1361471">Full list</a>
 
+<code>=sum()</code><br>
+<code>=average()</code><br>
+<code>=median()</code><br>
 <code>=concatenate()</code><br>
 <code>=trim()</code><br>
 <code>=clean()</code><br>
