@@ -42,4 +42,4 @@ Because not everyone has Excel, we'll use Google Spreadsheets. If you haven't al
 
 ###Homework
 
-Check out Mary Jo Webster's famous tipsheet, <a href="http://extra.twincities.com/car/mj/ExcelClassHandout.pdf">"My Favorite (Excel) Things"</a> (pdf).
+Check out Mary Jo Webster's tipsheet, <a href="http://extra.twincities.com/car/mj/ExcelClassHandout.pdf">"My Favorite (Excel) Things"</a> (pdf).
