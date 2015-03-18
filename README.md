@@ -4,8 +4,11 @@ Because not everyone has Excel, we'll use Google Spreadsheets. If you haven't al
 #Session overview
 
 ###Sorting and filtering
+Selecting everything -- super easy mistake
+Filtering only changes what you *see*
 
 ###Sums, averages and other functions
+- Battleship, A1, AX457
 <a href="https://support.google.com/docs/table/25273?hl=en&ref_topic=1361471">Full list</a>
 
 <code>=sum()</code><br>
@@ -27,8 +30,7 @@ Because not everyone has Excel, we'll use Google Spreadsheets. If you haven't al
 <code>=mid()</code><br>
 <code>=len()</code><br>
 <code>=substitute()</code>
-
-###IF statements
+<code>=if()</code>
 
 ###Pivot tables
 
@@ -39,6 +41,8 @@ Because not everyone has Excel, we'll use Google Spreadsheets. If you haven't al
 ###Sanity checks
 
 ###Web extras
+
+###What you can't do... yet
 
 ###Homework
 
