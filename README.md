@@ -3,6 +3,9 @@ Because not everyone has Excel, we'll use Google Spreadsheets. If you haven't al
 
 #Session overview
 
+###Before you start
+Understand your data!
+
 ###Sorting and filtering
 Selecting everything -- super easy mistake
 Filtering only changes what you *see*
